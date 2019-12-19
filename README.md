@@ -5,3 +5,5 @@ This project is code for a smart ring that accepts different gestures. When an a
 Arduino code is based off the Krodal Arduino MPU-6050 code and [this](https://www.instructables.com/id/Arduino-AND-Bluetooth-HC-05-Connecting-easily/) HC-05 arduino example
 
 Android app is based off [Mayoogh/Arduino-Bluetooth-Basic](https://github.com/Mayoogh/Arduino-Bluetooth-Basic)
+
+[Non-technical video](https://www.youtube.com/watch?v=svmqA4YMEq8) demonstrating the smart ring
