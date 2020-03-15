@@ -6,4 +6,4 @@ Arduino code is based off the Krodal Arduino MPU-6050 code and [this](https://ww
 
 Android app is based off [Mayoogh/Arduino-Bluetooth-Basic](https://github.com/Mayoogh/Arduino-Bluetooth-Basic)
 
-[Non-technical video](https://www.youtube.com/watch?v=svmqA4YMEq8) demonstrating the smart ring
+[Here's my YouTube video](https://www.youtube.com/watch?v=svmqA4YMEq8) demonstrating the smart ring
